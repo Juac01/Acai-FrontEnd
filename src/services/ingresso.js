@@ -11,5 +11,5 @@ export function calcularTotalIngresso(qtd, meiaEntrada, cupom) {
         let desconto = total * 50 / 100;
         total = total - desconto;
     }
-    return total;
+    return total;//DASDAS
 }
